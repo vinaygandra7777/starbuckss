@@ -5,20 +5,34 @@ This project is a responsive Online Food Ordering Platform inspired by Starbucks
 Features:
 
 User Authentication:
+
 Users can log in or sign up securely using Firebase Authentication.
+
 Menu Browsing:
+
 A visually appealing and interactive menu interface for exploring items.
+
 Cart Management:
+
 Add, update, or remove items in the cart with real-time updates.
+
 Order Summary:
+
 View detailed summaries of selected items before finalizing orders.
+
 Responsive Design:
+
 Ensures compatibility across all devices, from desktops to mobile phones.
-Technologies Used
+
+Technologies Used:
+
 HTML, CSS, JavaScript for front-end development
+
 Firebase Authentication for secure user login functionality
+
 GitHub Pages for deployment
 How to Access:
+https://vinaygandra7777.github.io/starbuckss/
 
 You can explore the live demo of the project at:
 
