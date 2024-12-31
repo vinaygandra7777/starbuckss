@@ -31,10 +31,11 @@ HTML, CSS, JavaScript for front-end development
 Firebase Authentication for secure user login functionality
 
 GitHub Pages for deployment
+
 How to Access:
-https://vinaygandra7777.github.io/starbuckss/
 
 You can explore the live demo of the project at:
+https://vinaygandra7777.github.io/starbuckss/
 
 Purpose:
 
